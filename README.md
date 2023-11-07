@@ -19,4 +19,4 @@ To view the Sherlock Holmes Portfolio Website, simply open the `index.html` file
 ## Installation
 
 Clone the repository:
-
+git clone https://github.com/Aishwary21/sherlock-holmes-portfolio.git
